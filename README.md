@@ -16,6 +16,6 @@ Live index.html : http://monsuratolaosebikan.github.io/portfolio-optimization/
 * Optimized for loops to complete calculations that didn't need to be repeated or didn't change outside the loop
 * Changed expensive querySelectorAll to getElementbyClassName
 * Created an array of repeating values to be used and reused by the function instead of recalculating the same values repeatedly
-*Reduced the amount of pizzas animated in the background from 200 to 30 since only a few can be seen at any given time
+* Reduced the amount of pizzas animated in the background from 200 to 30 since only a few can be seen at any given time
 
 Live pizza.html : http://monsuratolaosebikan.github.io/portfolio-optimization/views/pizza.html
